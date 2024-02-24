@@ -1,0 +1,9 @@
+UndergraduateStudent,1,John Smith,2001-05-23,Biology,4
+GraduateStudent,2,Jane Doe,1999-12-30,Chemistry,true
+Faculty,3,Robin James,1970-04-21,130000,Full Professor,Computer Science,true
+Faculty,4,Jamie Connell,1982-08-06,50000,Adjunct Associate Professor,Physics,false
+Staff,5,Raymond Graeber,1969-02-28,90000,false,true
+Administrator,6,Patricia Murphy,1979-08-13,220000,Assistant Dean,3200000
+SpecialStudent,7,Heather Walker,1990-07-23,Applied Math,true
+Faculty,8,Mary Barker,1975-06-15,125000,Associate Professor,Chemical Engineering,true
+
