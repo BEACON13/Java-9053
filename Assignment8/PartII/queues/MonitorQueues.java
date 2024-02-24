@@ -56,7 +56,6 @@ public class MonitorQueues implements Runnable {
 			try {
 				Thread.sleep(DELAY);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}

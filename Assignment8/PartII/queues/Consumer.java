@@ -46,7 +46,6 @@ public class Consumer implements Runnable {
 			try {
 				Thread.sleep((long) (Math.random()*DELAY));
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}

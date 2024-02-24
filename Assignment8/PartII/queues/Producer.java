@@ -28,7 +28,6 @@ public class Producer implements Runnable {
 				inLine = r.readLine();
 			}
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 			System.exit(-1);
 		}
@@ -59,7 +58,6 @@ public class Producer implements Runnable {
 			try {
 				Thread.sleep((long) (Math.random()*DELAY));
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
